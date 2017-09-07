@@ -1,0 +1,6 @@
+---
+applications:
+- name: EYNewApp
+  memory: 512M
+  host: EYNewApp
+  domain: mybluemix.net
